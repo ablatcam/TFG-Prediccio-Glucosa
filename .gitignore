@@ -1,0 +1,15 @@
+# Dades crues (conjunt de dades original de OhioT1DM)
+archive/
+
+# Dades preprocessades (es regeneren executant el notebook 01 a partir de archive/)
+dades_preprocessades/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
