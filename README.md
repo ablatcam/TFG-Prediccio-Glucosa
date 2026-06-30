@@ -2,7 +2,7 @@
 
 **Autor:** Adrián Blat Campos
 
-**Tutors:** Ricardo Sanz Díaz y Alejandro Laguna Sanz
+**Tutors:** Ricardo Sanz Díaz y Alejandro José Laguna Sanz
 
 **Universitat:** Universitat de València — Curs 2025-26
 
