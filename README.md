@@ -1,6 +1,6 @@
 # TFG: Predicció dels nivells de glucosa en sang en pacients amb diabetis mitjançant models de sèries temporals
 
-**Autor:** [Adrián Blat Campos]
+**Autor:** Adrián Blat Campos
 **Tutors:** Ricardo Sanz Díaz y Alejandro Laguna Sanz
 **Universitat:** Universitat de València — Curs 2025-26
 
