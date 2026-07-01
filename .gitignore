@@ -4,6 +4,10 @@ archive/
 # Dades preprocessades (es regeneren executant el notebook 01 a partir de archive/)
 dades_preprocessades/
 
+# Resultats generats (els resultats estàn carregats als notebooks)
+resultats_metrics/
+resultats_grafics/
+
 # Python
 __pycache__/
 *.pyc
