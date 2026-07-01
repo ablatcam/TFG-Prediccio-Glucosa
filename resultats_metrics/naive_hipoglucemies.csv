@@ -1,5 +1,0 @@
-Horitzó,Casos_Hipo_Reals,TP (Detectats),FN (Omesos),FP (Falses Alarmes),Sensibilitat / Recall (%),Precisió (%),F1-Score (%)
-15m,249,172,77,71,69.08,70.78,69.92
-30m,249,122,127,116,49.0,51.26,50.1
-45m,248,86,162,150,34.68,36.44,35.54
-60m,245,59,186,177,24.08,25.0,24.53
